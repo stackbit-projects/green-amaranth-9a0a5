@@ -78,3 +78,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://green-amaranth-9a0a5.netlify.app'
